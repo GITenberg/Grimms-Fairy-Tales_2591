@@ -1,5 +1,8 @@
 _repo: Grimms-Fairy-Tales_2591
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Grimm, Jacob
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/972
     wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2591#Grimms-Fairy-Tales
 gutenberg_issued: '2001-04-01'
 gutenberg_type: Text
 identifiers:
